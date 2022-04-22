@@ -1,1 +1,1 @@
-# TDAT2002-Mathemathics-2
+# TDAT2002 - Mathemathics 2
